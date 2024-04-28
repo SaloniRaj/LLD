@@ -1,2 +1,2 @@
-# LLD
-This will have practice code of all Low Level Design for System Design
+# LLD - notificationButton
+Practice code of notification button Low Level Design useing Observer Design for System Design
